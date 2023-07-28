@@ -18,3 +18,5 @@ CHERRY CREEK MALL APPLE STORE = FREE JOINTS! SERIOUSLY!
 SAMPLE ITRASH MEME USING A 4 INCH SQUARE:
 
 ![4 inch cardboard square which says "itrash" trash magic by apple](https://raw.githubusercontent.com/LafeLabs/iTrash/main/trashmagic/itrash.png)
+
+![browser screenshot of the local server](https://raw.githubusercontent.com/LafeLabs/iTrash/main/trashmagic/browser.png)
